@@ -3,7 +3,9 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
+mvnw.cmd
+.mvn
+mvnw
 ### STS ###
 .apt_generated
 .classpath
@@ -31,3 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
+.gitattributes
